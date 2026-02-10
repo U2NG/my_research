@@ -8,4 +8,6 @@ dat <- read.csv("data.csv")
 
 str(dat)
 
+summary(dat) %>% head()
 
+#crerate a comment 
