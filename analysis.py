@@ -12,10 +12,6 @@ y = x - 3
 <<<<<<< HEAD
 
 =======
-z = y * 2
-
-z - y 
-
 
 #import full dataset 
 >>>>>>> e29371b (updates)
