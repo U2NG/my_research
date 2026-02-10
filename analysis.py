@@ -9,12 +9,7 @@ x = 5
 
 y = x - 3
 
-<<<<<<< HEAD
-
-=======
-
 #import full dataset 
->>>>>>> e29371b (updates)
 
 
 
