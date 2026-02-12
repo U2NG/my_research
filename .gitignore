@@ -2,6 +2,7 @@
 *.obj
 *.png
 *.mp3
+*.jpg
 
 .Rproj.user
 
